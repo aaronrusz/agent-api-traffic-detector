@@ -1,6 +1,6 @@
 # Agent/API Traffic Detector
 
-A specialized detector for agent and API traffic extracted from `network-anomaly-monitor`.
+A specialized detector for agent and API traffic.
 
 ## Features
 

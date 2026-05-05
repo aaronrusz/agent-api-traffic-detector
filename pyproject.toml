@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "agent-api-traffic-detector"
 version = "0.1.0"
-description = "A detector for agent and API traffic extracted from network-anomaly-monitor."
+description = "A detector for agent and API traffic."
 readme = "README.md"
 requires-python = ">=3.8"
 authors = [{name = "Aaron Rusz"}]
